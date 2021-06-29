@@ -1,4 +1,4 @@
 # GANIST
 
-## Generating images in MNIST dataset using Vanilla GANs
+## Generating images in MNIST dataset using GANs
 
